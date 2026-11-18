@@ -27,6 +27,23 @@ I'm a Computer Science and Engineering student at **Green University of Banglade
 - 🔐 Exploring cybersecurity and web application security
 - 🧠 Practicing Data Structures and Algorithms
 
+## 🎓 Education
+
+**1. B.Sc. in Computer Science & Engineering (CSE)**
+- Green University of Bangladesh
+- Currently pursuing
+- Current CGPA: **3.62 / 4.00**
+
+**2. Higher Secondary Certificate (HSC)**
+- Patuakhali Govt. College, Patuakhali
+- Group: Science
+- GPA: **5.00 / 5.00**
+
+**3. Secondary School Certificate (SSC)**
+- Patuakhali Govt. Jubilee High School
+- Group: Science
+- GPA: **5.00 / 5.00**
+
 ## 02. Technical Arsenal
 
 | Category | Technologies |
