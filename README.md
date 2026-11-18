@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="assets/banner.png" alt="Md. Imran Hossen - Developer Command Center" width="100%">
 
@@ -9,6 +9,10 @@
 **<span style="color:#00D9FF">BUILD</span> • LEARN • SECURE**
 
 *Turning curiosity into code, ideas into projects, and learning into progress.*
+
+<br>
+
+[![VISIT MY PORTFOLIO](https://img.shields.io/badge/VISIT_MY_PORTFOLIO-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=0B1220)](https://ihkabbo.github.io/portfolio/)
 
 <br>
 
