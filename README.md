@@ -132,3 +132,15 @@ My personal portfolio documenting my programming journey, projects, and technica
 *Building skills through practice, projects, and continuous learning.*
 
 </div>
+
+---
+
+## 08. GitHub Contribution Activity
+
+<div align="center">
+
+### 🐍 Watch my contributions
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/ihkabbo/ihkabbo/output/github-contribution-grid-snake.svg)
+
+</div>
