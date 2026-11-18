@@ -4,131 +4,171 @@
 
 # MD. IMRAN HOSSEN
 
-### CSE Student | Programmer | Cybersecurity Enthusiast
+### CSE STUDENT  |  PROGRAMMER  |  CYBERSECURITY ENTHUSIAST
 
-**BUILD • LEARN • SECURE**
+**<span style="color:#00D9FF">BUILD</span> • LEARN • SECURE**
 
 *Turning curiosity into code, ideas into projects, and learning into progress.*
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-ihkabbo-181717?style=for-the-badge&logo=github)](https://github.com/ihkabbo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ihkabbo)
-[![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ihkabbo01)
-[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ihkabbo03)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ihkabbo02)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/ihkabbo04)
+[![GitHub](https://img.shields.io/badge/GITHUB-ihkabbo-0B1220?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/ihkabbo)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0B1220?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/ihkabbo)
+[![Facebook](https://img.shields.io/badge/FACEBOOK-CONNECT-0B1220?style=for-the-badge&logo=facebook&logoColor=00D9FF)](https://www.facebook.com/ihkabbo01)
+[![X](https://img.shields.io/badge/X-FOLLOW-0B1220?style=for-the-badge&logo=x&logoColor=00D9FF)](https://x.com/ihkabbo03)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-0B1220?style=for-the-badge&logo=instagram&logoColor=00D9FF)](https://www.instagram.com/ihkabbo02)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-CHAT-0B1220?style=for-the-badge&logo=whatsapp&logoColor=00D9FF)](https://wa.me/ihkabbo04)
 
 </div>
 
 ---
 
-## 🧑‍💻 01. About Me
+# 01 / DEVELOPER OVERVIEW
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### 👨‍💻 ABOUT ME
 
 Hello! I'm **Md. Imran Hossen**, a Computer Science and Engineering student at **Green University of Bangladesh**.
 
 I'm passionate about programming, software development, problem-solving, and cybersecurity. I enjoy exploring technologies, building practical projects, and continuously expanding my technical knowledge.
 
-- 🎓 Pursuing B.Sc. in Computer Science & Engineering
+- 🎓 B.Sc. in Computer Science & Engineering
 - 💻 Programming with C, C++, and Java
 - 🐧 Learning Linux administration and networking
 - 🔐 Exploring cybersecurity and web application security
 - 🧠 Practicing Data Structures and Algorithms
 - 🚀 Building projects and learning new technologies
 
+</td>
+<td width="40%" valign="top">
+
+### 🎯 CURRENT STATUS
+
+| Category | Information |
+|---|---|
+| Education | CSE Student |
+| University | Green University of Bangladesh |
+| CGPA | 3.62 / 4.00 |
+| Primary Languages | C, C++, Java |
+| Interest | Cybersecurity |
+| Focus | Software Development |
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 🎓 02. Education
+# 02 / EDUCATION & BACKGROUND
 
-<details open>
-<summary><b>Undergraduate Education</b></summary>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**B.Sc. in Computer Science & Engineering (CSE)**
+### 🎓 UNDERGRADUATE
 
-🏛️ Green University of Bangladesh
+**B.Sc. in Computer Science & Engineering**
+
+Green University of Bangladesh
 
 - Status: Currently pursuing
-- Current CGPA: **3.62 / 4.00**
+- CGPA: **3.62 / 4.00**
 
-</details>
+</td>
+<td width="50%" valign="top">
 
-<details>
-<summary><b>Higher Secondary Education (HSC)</b></summary>
+### 🏫 HIGHER SECONDARY
 
 **Patuakhali Govt. College, Patuakhali**
 
 - Group: Science
 - GPA: **5.00 / 5.00**
 
-</details>
+</td>
+</tr>
+<tr>
+<td colspan="2">
 
-<details>
-<summary><b>Secondary Education (SSC)</b></summary>
+### 📘 SECONDARY EDUCATION
 
 **Patuakhali Govt. Jubilee High School**
 
 - Group: Science
 - GPA: **5.00 / 5.00**
 
-</details>
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚔️ 03. Technical Arsenal
+# 03 / TECHNICAL ARSENAL
 
-### Programming Languages
+### 💻 PROGRAMMING LANGUAGES
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-0B1220?style=for-the-badge&logo=c&logoColor=00D9FF)
+![C++](https://img.shields.io/badge/C%2B%2B-0B1220?style=for-the-badge&logo=cplusplus&logoColor=00D9FF)
+![Java](https://img.shields.io/badge/Java-0B1220?style=for-the-badge&logo=openjdk&logoColor=00D9FF)
+![Python](https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=00D9FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&logo=javascript&logoColor=00D9FF)
 
-### Web Technologies
+### 🌐 WEB TECHNOLOGIES
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0B1220?style=for-the-badge&logo=html5&logoColor=00D9FF)
+![CSS3](https://img.shields.io/badge/CSS3-0B1220?style=for-the-badge&logo=css3&logoColor=00D9FF)
 
-### Database
+### 🗄️ DATABASE
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0B1220?style=for-the-badge&logo=mysql&logoColor=00D9FF)
+![SQL](https://img.shields.io/badge/SQL-0B1220?style=for-the-badge&logo=databricks&logoColor=00D9FF)
 
-### Operating Systems & Cybersecurity
+### 🐧 OPERATING SYSTEMS & CYBERSECURITY
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0B1220?style=for-the-badge&logo=linux&logoColor=00D9FF)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0B1220?style=for-the-badge&logo=kalilinux&logoColor=00D9FF)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-0B1220?style=for-the-badge&logo=ubuntu&logoColor=00D9FF)
 
-### Development Tools & Platforms
+### 🛠️ DEVELOPMENT TOOLS & PLATFORMS
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=00D9FF)
+![GitHub](https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=00D9FF)
+![VS Code](https://img.shields.io/badge/VS_Code-0B1220?style=for-the-badge&logo=visualstudiocode&logoColor=00D9FF)
+![NetBeans](https://img.shields.io/badge/NetBeans-0B1220?style=for-the-badge&logo=apachenetbeanside&logoColor=00D9FF)
+![VMware](https://img.shields.io/badge/VMware-0B1220?style=for-the-badge&logo=vmware&logoColor=00D9FF)
+![Arduino](https://img.shields.io/badge/Arduino-0B1220?style=for-the-badge&logo=arduino&logoColor=00D9FF)
 
 ---
 
-## 🚀 04. Featured Projects
+# 04 / FEATURED PROJECTS
 
-A collection of academic, programming, software development, and embedded systems projects.
+<sub>ACADEMIC PROJECTS • SOFTWARE DEVELOPMENT • PROGRAMMING • EMBEDDED SYSTEMS</sub>
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 01. Graph Algorithm Visualizer
 
-**C | Data Structures & Algorithms**
+![C](https://img.shields.io/badge/C-0B1220?style=flat&logo=c&logoColor=00D9FF)
+![Algorithms](https://img.shields.io/badge/Algorithms-0B1220?style=flat&logoColor=00D9FF)
 
 - Prim's and Kruskal's Minimum Spanning Tree algorithms
 - Dijkstra's shortest-path algorithm
 - Weighted graph representation
 - Disjoint Set Union (DSU)
 
+</td>
+<td width="50%" valign="top">
+
 ### 02. Smart Cafeteria Management System
 
-**Java | OOP | Java Swing | MySQL | JDBC**
+![Java](https://img.shields.io/badge/Java-0B1220?style=flat&logo=openjdk&logoColor=00D9FF)
+![MySQL](https://img.shields.io/badge/MySQL-0B1220?style=flat&logo=mysql&logoColor=00D9FF)
 
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/ihkabbo/smart-cafeteria-management-system)
+[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-00D9FF?style=for-the-badge&logo=github&logoColor=0B1220)](https://github.com/ihkabbo/smart-cafeteria-management-system)
 
 - Student and administrator interfaces
 - Login and registration system
@@ -137,11 +177,16 @@ A collection of academic, programming, software development, and embedded system
 - Payment and stock management
 - MySQL database integration
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 03. Cafeteria Management System
 
-**C | Data Structures | File Handling**
+![C](https://img.shields.io/badge/C-0B1220?style=flat&logo=c&logoColor=00D9FF)
 
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/ihkabbo/cafeteria-management-system-c)
+[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-00D9FF?style=for-the-badge&logo=github&logoColor=0B1220)](https://github.com/ihkabbo/cafeteria-management-system-c)
 
 - Console-based cafeteria management
 - Food menu management
@@ -150,11 +195,14 @@ A collection of academic, programming, software development, and embedded system
 - Order processing
 - File handling for data storage
 
+</td>
+<td width="50%" valign="top">
+
 ### 04. Smart Home Security System
 
-**Arduino | Embedded Systems**
+![Arduino](https://img.shields.io/badge/Arduino-0B1220?style=flat&logo=arduino&logoColor=00D9FF)
 
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/ihkabbo/smart-home-security-system)
+[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-00D9FF?style=for-the-badge&logo=github&logoColor=0B1220)](https://github.com/ihkabbo/smart-home-security-system)
 
 - Keypad password authentication
 - LCD interface
@@ -162,22 +210,30 @@ A collection of academic, programming, software development, and embedded system
 - Alarm after three incorrect attempts
 - EEPROM password storage
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 05. Smart Street Lighting System
 
-**Arduino | LDR Sensor | Embedded Systems**
+![Arduino](https://img.shields.io/badge/Arduino-0B1220?style=flat&logo=arduino&logoColor=00D9FF)
 
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/ihkabbo/smart-street-lighting-system)
+[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-00D9FF?style=for-the-badge&logo=github&logoColor=0B1220)](https://github.com/ihkabbo/smart-street-lighting-system)
 
 - Automatic light detection
 - LED control based on ambient light
 - Manual button functionality
 - LCD monitoring
 
+</td>
+<td width="50%" valign="top">
+
 ### 06. Student Test Result Grading System
 
-**C | Programming Fundamentals**
+![C](https://img.shields.io/badge/C-0B1220?style=flat&logo=c&logoColor=00D9FF)
 
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/ihkabbo/student-grading-system)
+[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-00D9FF?style=for-the-badge&logo=github&logoColor=0B1220)](https://github.com/ihkabbo/student-grading-system)
 
 - Multiple student result management
 - Subject-wise mark calculation
@@ -185,41 +241,77 @@ A collection of academic, programming, software development, and embedded system
 - Input validation
 - Overall result generation
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 07. Cybersecurity Practice Lab
 
-**Kali Linux | Ubuntu Server | VMware**
+![Linux](https://img.shields.io/badge/Linux-0B1220?style=flat&logo=linux&logoColor=00D9FF)
+![VMware](https://img.shields.io/badge/VMware-0B1220?style=flat&logo=vmware&logoColor=00D9FF)
 
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/ihkabbo/cybersecurity-practice-lab)
+[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-00D9FF?style=for-the-badge&logo=github&logoColor=0B1220)](https://github.com/ihkabbo/cybersecurity-practice-lab)
 
 - Virtual Linux environments
 - Linux command-line practice
 - Basic networking exercises
 - Cybersecurity fundamentals
 
+</td>
+<td width="50%" valign="top">
+
 ### 08. Developer Portfolio
 
-**GitHub | Markdown | GitHub Actions**
+![GitHub](https://img.shields.io/badge/GitHub-0B1220?style=flat&logo=github&logoColor=00D9FF)
+![Markdown](https://img.shields.io/badge/Markdown-0B1220?style=flat&logo=markdown&logoColor=00D9FF)
 
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/ihkabbo/ihkabbo)
+[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-00D9FF?style=for-the-badge&logo=github&logoColor=0B1220)](https://github.com/ihkabbo/ihkabbo)
 
 - Personal developer profile
 - Project documentation
 - Technical skills and learning journey
 - GitHub profile customization
 
----
-
-## 🏆 05. Leadership & Activities
-
-- **Organising Secretary** — MODERN JURASSIC PARK CENTRAL STUDENT'S UNION (MJPCSU)
-- **Senior Patrol Leader** — Bangladesh Scouts
-- **OOP Lab Class Representative**
+</td>
+</tr>
+</table>
 
 ---
 
-## 🥇 06. Achievements & Participation
+# 05 / LEADERSHIP & ACTIVITIES
 
-| Achievement | Recognition |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏅 ORGANISING SECRETARY
+
+MODERN JURASSIC PARK CENTRAL STUDENT'S UNION (MJPCSU)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚜️ SENIOR PATROL LEADER
+
+Bangladesh Scouts
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 🎓 OOP LAB CLASS REPRESENTATIVE
+
+</td>
+</tr>
+</table>
+
+---
+
+# 06 / ACHIEVEMENTS & RECOGNITION
+
+| ACHIEVEMENT | RECOGNITION |
 |---|---|
 | IEEE Olympiad GUB 2025 | 11th Place — Junior Level |
 | IEEE Student Branch | Appreciation |
@@ -230,45 +322,57 @@ A collection of academic, programming, software development, and embedded system
 
 ---
 
-## 🎯 07. Current Focus
+# 07 / CURRENT FOCUS
 
-- 📚 Data Structures and Algorithms
-- 💻 C/C++ and Java programming
-- 🐧 Linux administration and networking
-- 🔐 Web application security
-- 🐍 Python programming
-- 🛠️ Software development
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 PROGRAMMING
+
+- Data Structures and Algorithms
+- C/C++ programming
+- Java programming
+- Python programming
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 TECHNOLOGY
+
+- Linux administration
+- Networking
+- Web application security
+- Software development
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌐 08. Connect With Me
+# 08 / CONNECT WITH ME
 
 <div align="center">
 
-I'm always open to connecting, learning, collaborating, and sharing ideas.
+*Open to connecting, learning, collaborating, and sharing ideas.*
 
-<a href="https://github.com/ihkabbo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/ihkabbo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.facebook.com/ihkabbo01"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://x.com/ihkabbo03"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://www.instagram.com/ihkabbo02"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://wa.me/ihkabbo04"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-
-<br><br>
-
-**BUILD • LEARN • SECURE**
-
-*Building skills through practice, projects, and continuous learning.*
+[![GitHub](https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/ihkabbo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/ihkabbo)
+[![Facebook](https://img.shields.io/badge/Facebook-0B1220?style=for-the-badge&logo=facebook&logoColor=00D9FF)](https://www.facebook.com/ihkabbo01)
+[![X](https://img.shields.io/badge/X-0B1220?style=for-the-badge&logo=x&logoColor=00D9FF)](https://x.com/ihkabbo03)
+[![Instagram](https://img.shields.io/badge/Instagram-0B1220?style=for-the-badge&logo=instagram&logoColor=00D9FF)](https://www.instagram.com/ihkabbo02)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-0B1220?style=for-the-badge&logo=whatsapp&logoColor=00D9FF)](https://wa.me/ihkabbo04)
 
 </div>
 
 ---
 
-## 🐍 09. GitHub Contribution Activity
+# 09 / GITHUB CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-### Watch my contributions come to life!
+### WATCH MY CONTRIBUTIONS COME TO LIFE!
 
 <img src="https://raw.githubusercontent.com/ihkabbo/ihkabbo/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%">
 
@@ -276,9 +380,11 @@ I'm always open to connecting, learning, collaborating, and sharing ideas.
 
 ---
 
-## 📊 10. GitHub Analytics
+# 10 / GITHUB ANALYTICS
 
 <div align="center">
+
+### 📊 DEVELOPMENT STATISTICS
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ihkabbo&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" />
 
@@ -294,10 +400,12 @@ I'm always open to connecting, learning, collaborating, and sharing ideas.
 
 <div align="center">
 
-### 💡 BUILD • LEARN • SECURE
+### BUILD • LEARN • SECURE
 
 *One line of code at a time. One project at a time.*
 
-**Thanks for visiting my profile!**
+**THANKS FOR VISITING MY PROFILE!**
+
+<sub>DESIGNED WITH PASSION • POWERED BY CURIOSITY</sub>
 
 </div>
