@@ -151,8 +151,15 @@ I'm a Computer Science and Engineering student at **Green University of Banglade
 
 ## 07. Connect With Me
 
-\<p align="center">   \<a href="[https://github.com/ihkabbo](https://github.com/ihkabbo)">     \<img src="[https://img.shields.io/badge/GitHub-ihkabbo-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-ihkabbo-181717?style=for-the-badge\&logo=github)" />   \</a>   \<a href="[https://www.linkedin.com/in/ihkabbo](https://www.linkedin.com/in/ihkabbo)">     \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)" />   \</a>   \<a href="[https://www.facebook.com/ihkabbo01](https://www.facebook.com/ihkabbo01)">     \<img src="[https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)" />   \</a>   \<a href="[https://x.com/ihkabbo03](https://x.com/ihkabbo03)">     \<img src="[https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge\&logo=x\&logoColor=white)" />   \</a>   \<a href="[https://www.instagram.com/ihkabbo02](https://www.instagram.com/ihkabbo02)">     \<img src="[https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)" />   \</a>   \<a href="[https://wa.me/ihkabbo04](https://wa.me/ihkabbo04)">     \<img src="[https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white](https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)" />   \</a> \</p>
+<div align="center">
 
+<a href="https://github.com/ihkabbo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ihkabbo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.facebook.com/ihkabbo01"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+<a href="https://x.com/ihkabbo03"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+<a href="https://www.instagram.com/ihkabbo02"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+
+</div>
 
 <div align="center">
 
@@ -161,8 +168,6 @@ I'm a Computer Science and Engineering student at **Green University of Banglade
 *Building skills through practice, projects, and continuous learning.*
 
 </div>
-
----
 
 ## 08. GitHub Contribution Activity
 
