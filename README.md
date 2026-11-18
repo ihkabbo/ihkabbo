@@ -1,108 +1,92 @@
 <div align="center">
-
 <img src="assets/banner.png" alt="Md. Imran Hossen — Developer Command Center" width="100%">
-
-# Md. Imran Hossen
-
-### CSE Student | Programmer | Cybersecurity Enthusiast
-
-**BUILD • LEARN • SECURE**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ihkabbo)
-[![GitHub](https://img.shields.io/badge/GitHub-ihkabbo-181717?style=for-the-badge&logo=github)](https://github.com/ihkabbo)
-
+Md. Imran Hossen
+CSE Student | Programmer | Cybersecurity Enthusiast
+BUILD • LEARN • SECURE
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-ihkabbo-181717?style=for-the-badge&logo=github)
 </div>
-
 ---
-
-## About Me
-
-I'm a Computer Science and Engineering student at **Green University of Bangladesh**, interested in programming, software development, and cybersecurity.
-
-I enjoy solving programming problems, exploring computer science concepts, building practical projects, and learning how systems work.
-
-- 🎓 Studying Computer Science & Engineering
-- 💻 Working with C, C++, and Java
-- 🐧 Learning Linux administration and networking
-- 🔐 Exploring web application security and cybersecurity
-- 🧠 Strengthening Data Structures and Algorithms
-
-## Technical Skills
-
-| Area | Technologies |
-|---|---|
-| Programming | C, C++, Java |
-| Currently learning | Python, JavaScript |
-| Web fundamentals | HTML, CSS |
-| Database | MySQL, SQL |
-| Systems | Linux, Kali Linux, Ubuntu Server |
-| Tools | Git, GitHub, VS Code, NetBeans, MySQL Workbench |
-| Other interests | Cybersecurity, Networking, Arduino |
-
-## Featured Projects
-
-### 1. Graph Algorithm Visualizer
-A C project exploring weighted graph algorithms and network optimization.
-- Prim's Algorithm
-- Kruskal's Algorithm
-- Dijkstra's Algorithm
-- Graph representation and Disjoint Set Union (DSU)
-
-### 2. Cafeteria Management System
-A Java and MySQL application for cafeteria operations.
-- Student and administrator interfaces
-- Login and registration
-- Order management and status tracking
-- JDBC database connectivity
-
-### 3. Smart Home Security System
-An Arduino-based security project with password authentication.
-- Keypad and LCD interface
-- Servo-based locking mechanism
-- Buzzer alarm after incorrect attempts
-- EEPROM password storage
-
-### 4. Automatic Street Light Using LDR
-An Arduino project that controls lighting based on ambient light intensity.
-- LDR sensor integration
-- Automatic LED control
-- Manual button functionality
-- LCD monitoring
-
-### 5. Cybersecurity Practice Lab
-A personal virtual lab for learning Linux, networking, and cybersecurity fundamentals.
-- Kali Linux and Ubuntu Server
-- VMware Workstation
-- Linux command-line practice
-- Basic networking exercises
-
-### 6. Developer Portfolio
-This GitHub profile is being developed as a portfolio for my programming journey, projects, and technical learning.
-
-## Current Focus
-
-- Data Structures and Algorithms
-- C/C++ and Java programming
-- Linux administration and networking
-- Web application security fundamentals
-- Python and web development
-
-## Leadership & Activities
-
-- Organising Secretary — GUB Computer Programming Club (GUBCPC)
-- Organising Secretary — Modern Jurassic Park Computer Science University (MJPCSU)
-- Senior Patrol Leader — Bangladesh Scouts
-- OOP Lab Class Representative
-
-## Connect
-
-- **GitHub:** [@ihkabbo](https://github.com/ihkabbo)
-- **LinkedIn:** [linkedin.com/in/ihkabbo](https://linkedin.com/in/ihkabbo)
-
+About Me
+I'm a Computer Science and Engineering student at Green University of Bangladesh, interested in programming, software development, and cybersecurity. I enjoy solving programming problems, exploring new technologies, building practical projects, and continuously improving my technical skills.
+🎓 B.Sc. student in Computer Science & Engineering — Green University of Bangladesh
+💻 Programming with C, C++, and Java
+🐧 Developing my skills in Linux administration and networking
+🔐 Exploring web application security and cybersecurity fundamentals
+🧠 Strengthening Data Structures and Algorithms
+Technical Skills
+Self-assessed skill levels; these describe my current learning experience.
+Area	Skills
+Programming — Intermediate	C, C++, Java
+Programming — Beginner	Python, JavaScript
+Web — Beginner	HTML, CSS
+Database — Beginner	SQL, MySQL
+Linux & Security	Kali Linux, Ubuntu Server, Linux command line, basic networking, web application security fundamentals
+Development tools	Git, GitHub, VS Code, Apache NetBeans, MySQL Workbench, GCC / MSYS2, Java JDK
+Virtualization	VMware Workstation
+Embedded systems	Arduino Uno, keypad and LCD interfacing, servo control, LDR sensors
+Other tools	Canva, LaTeX, Microsoft Office
+Featured Projects
+1. Graph Algorithm Visualizer
+Academic project / in progress · C · Graph Algorithms
+A C-based project exploring graph algorithms for network optimization.
+Prim's and Kruskal's Minimum Spanning Tree algorithms
+Dijkstra's shortest-path algorithm
+Weighted, undirected graph representation
+Disjoint Set Union (DSU), path compression, and union by rank
+2. Cafeteria Management System
+Academic project · Java · OOP · MySQL · JDBC
+A Java-based cafeteria management application with student and administrator interfaces.
+Student login, registration, and dashboard
+Admin dashboard
+Database connectivity
+Order management and order-status tracking
+3. Smart Home Security System with Password Authentication
+Digital Logic Design lab project · Arduino · Embedded Systems
+An Arduino-based home security system with password authentication and multiple security levels.
+Keypad input and LCD display
+Servo motor-based locking mechanism
+Alarm after three incorrect attempts
+Buzzer alerts and LED status indicators
+EEPROM-based password storage and reset functionality
+4. Automatic Street Light Using LDR
+Physics project · Arduino · Sensors · Automation
+An automated street-light system that detects surrounding light intensity using an LDR sensor and controls LEDs.
+Automatic light detection and LED control
+Manual button functionality
+LCD monitoring
+5. Cybersecurity Practice Lab
+Personal learning lab · Kali Linux · Ubuntu Server · VMware
+A virtual lab for learning Linux administration, networking, and cybersecurity fundamentals.
+Windows host with VMware Workstation
+Kali Linux and Ubuntu Server virtual machines
+Linux command-line and administration practice
+Basic networking and client-server exercises
+6. GitHub Developer Portfolio
+Portfolio project · GitHub · Markdown · SVG · GitHub Actions
+This profile is a work in progress, built to document my programming journey, technical interests, and projects.
+Leadership & Activities
+Organising Secretary — GUB Computer Programming Club (GUBCPC)
+Organising Secretary — Modern Jurassic Park Computer Science University (MJPCSU)
+Senior Patrol Leader — Bangladesh Scouts, Patuakhali Government Jubilee School
+OOP Lab Class Representative
+Achievements & Participation
+11th place — IEEE Olympiad GUB 2025, Junior Level
+Appreciation — IEEE Student Branch
+Participant — GUBCPC July Memorial Programming Contest 2026
+Volunteer — Dowraw Bangladesh 10 KM Marathon
+Participated in IEEE Day 2025 and IEEE Young Professionals Bangladesh Talk Series 2025
+Current Learning & Research Interests
+Data Structures and Algorithms
+Linux administration and networking
+Web application vulnerability detection
+Web technologies, SQL, and database security
+Python programming and practical cybersecurity
+Software development and competitive programming
+Connect
+GitHub: @ihkabbo
+LinkedIn: linkedin.com/in/ihkabbo
 ---
-
 <div align="center">
-
-*Building skills through practice, projects, and continuous learning.*
-
+Building skills through practice, projects, and continuous learning.
 </div>
