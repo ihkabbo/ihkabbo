@@ -144,3 +144,20 @@ My personal portfolio documenting my programming journey, projects, and technica
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/ihkabbo/ihkabbo/output/github-contribution-grid-snake.svg)
 
 </div>
+
+
+---
+
+## 09. GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ihkabbo&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihkabbo&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img width="65%" src="https://streak-stats.demolab.com?user=ihkabbo&theme=tokyonight&hide_border=true" />
+
+</div>
