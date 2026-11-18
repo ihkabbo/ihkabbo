@@ -49,16 +49,34 @@ I'm a Computer Science and Engineering student at **Green University of Banglade
 - Weighted graph representation
 - Disjoint Set Union (DSU)
 
-### 2. Cafeteria Management System
-**Java | OOP | MySQL | JDBC**
+### 2. Smart Cafeteria Management System
+**Java | OOP | Java Swing | MySQL | JDBC**
+
+[View Repository](https://github.com/ihkabbo/smart-cafeteria-management-system)
 
 - Student and administrator interfaces
-- Login and registration
-- Order management and status tracking
-- Database connectivity
+- Login and registration system
+- Food menu and category management
+- Shopping cart and order management
+- Payment and stock management
+- MySQL database integration
 
-### 3. Smart Home Security System
+### 3. Cafeteria Management System
+**C | Data Structures | File Handling**
+
+[View Repository](https://github.com/ihkabbo/cafeteria-management-system-c)
+
+- Console-based cafeteria management
+- Food menu management
+- Linked list implementation
+- Quantity and price management
+- Order processing
+- File handling for data storage
+
+### 4. Smart Home Security System
 **Arduino | Embedded Systems**
+
+[View Repository](https://github.com/ihkabbo/smart-home-security-system)
 
 - Keypad password authentication
 - LCD interface
@@ -66,26 +84,46 @@ I'm a Computer Science and Engineering student at **Green University of Banglade
 - Alarm after three incorrect attempts
 - EEPROM password storage
 
-### 4. Automatic Street Light
-**Arduino | LDR Sensor**
+### 5. Smart Street Lighting System
+**Arduino | LDR Sensor | Embedded Systems**
+
+[View Repository](https://github.com/ihkabbo/smart-street-lighting-system)
 
 - Automatic light detection
 - LED control based on ambient light
 - Manual button functionality
 - LCD monitoring
 
-### 5. Cybersecurity Practice Lab
+### 6. Student Test Result Grading System
+**C | Programming Fundamentals**
+
+[View Repository](https://github.com/ihkabbo/student-grading-system)
+
+- Multiple student result management
+- Subject-wise mark calculation
+- Automatic letter grade assignment
+- Input validation
+- Overall result generation
+
+### 7. Cybersecurity Practice Lab
 **Kali Linux | Ubuntu Server | VMware**
+
+[View Repository](https://github.com/ihkabbo/cybersecurity-practice-lab)
 
 - Virtual Linux environments
 - Linux command-line practice
 - Basic networking exercises
 - Cybersecurity fundamentals
 
-### 6. Developer Portfolio
+### 8. Developer Portfolio
 **GitHub | Markdown | GitHub Actions**
 
-My personal portfolio documenting my programming journey, projects, and technical interests.
+[View Repository](https://github.com/ihkabbo/ihkabbo)
+
+- Personal developer profile
+- Project documentation
+- Technical skills and learning journey
+- GitHub profile customization
 
 ## 04. Leadership & Activities
 
@@ -164,22 +202,3 @@ My personal portfolio documenting my programming journey, projects, and technica
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔐 Cybersecurity Practice Lab
-A hands-on cybersecurity practice and learning setup.
-
-### 🏠 Smart Home Security System
-An Arduino UNO-based security system featuring keypad password authentication, door locking, an LCD, and an alarm system.
-
-### 💡 Smart Street Lighting System
-An Arduino-based smart lighting project using an LDR sensor to adjust LED brightness automatically and monitor energy usage.
-
-### 🍽️ Cafeteria Management System
-- **Java Version:** GUI-based cafeteria management application.
-- **C Version:** Console-based cafeteria management application.
-
-### 🎓 Student Test Result Grading System
-A C programming project for managing student test results and grading.
-
----
