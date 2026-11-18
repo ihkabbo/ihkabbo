@@ -154,6 +154,7 @@ I'm a Computer Science and Engineering student at **Green University of Banglade
 <div align="center">
 
 <a href="https://github.com/ihkabbo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://wa.me/ihkabbo04"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/ihkabbo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.facebook.com/ihkabbo01"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
 <a href="https://x.com/ihkabbo03"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
