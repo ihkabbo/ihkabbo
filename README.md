@@ -161,3 +161,25 @@ My personal portfolio documenting my programming journey, projects, and technica
 <img width="65%" src="https://streak-stats.demolab.com?user=ihkabbo&theme=tokyonight&hide_border=true" />
 
 </div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 Cybersecurity Practice Lab
+A hands-on cybersecurity practice and learning setup.
+
+### 🏠 Smart Home Security System
+An Arduino UNO-based security system featuring keypad password authentication, door locking, an LCD, and an alarm system.
+
+### 💡 Smart Street Lighting System
+An Arduino-based smart lighting project using an LDR sensor to adjust LED brightness automatically and monitor energy usage.
+
+### 🍽️ Cafeteria Management System
+- **Java Version:** GUI-based cafeteria management application.
+- **C Version:** Console-based cafeteria management application.
+
+### 🎓 Student Test Result Grading System
+A C programming project for managing student test results and grading.
+
+---
