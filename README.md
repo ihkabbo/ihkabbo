@@ -127,8 +127,7 @@ I'm a Computer Science and Engineering student at **Green University of Banglade
 
 ## 04. Leadership & Activities
 
-- **Organising Secretary** — GUB Computer Programming Club (GUBCPC)
-- **Organising Secretary** — Modern Jurassic Park Computer Science University (MJPCSU)
+- **Organising Secretary** — MODERN JURASSIC PARK CENTRAL STUDENT'S UNION (MJPCSU)
 - **Senior Patrol Leader** — Bangladesh Scouts
 - **OOP Lab Class Representative**
 
